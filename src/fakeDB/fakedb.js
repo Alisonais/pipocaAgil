@@ -1,0 +1,1 @@
+[{ "name": "alison", "email": "a@a.com", "senha": "123", "data de nascimento": "1987-05-27T00:00:00.000Z", "subscribe": false, "member": false }][{ "name": "alison", "email": "a@a.com", "senha": "123", "data de nascimento": "1987-05-27T00:00:00.000Z", "subscribe": false, "member": false }]
