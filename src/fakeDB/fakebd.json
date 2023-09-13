@@ -1,1 +1,32 @@
-{"name":"alison","email":"a@a.com","senha":"123","data de nascimento":"1987-05-27T00:00:00.000Z","subscribe":false,"member":false}
+[
+  {
+    "name": "alison",
+    "email": "a@a.com",
+    "senha": "123",
+    "data de nascimento": "1987-05-27T00:00:00.000Z",
+    "subscribe": false,
+    "member": false,
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiYWxpc29uIiwiZW1haWwiOiJhQGEuY29tIiwic2VuaGEiOiIxMjMiLCJkYXRhIGRlIG5hc2NpbWVudG8iOiIxOTg3LTA1LTI3VDAwOjAwOjAwLjAwMFoiLCJzdWJzY3JpYmUiOmZhbHNlLCJtZW1iZXIiOmZhbHNlLCJpYXQiOjE2OTQ1NjgyMTJ9.GR0YbNnSIoziL5Q32CZaOzM2cw_tAuChsY378l-AwvA",
+    "id": "62a21fe3-1cc5-43ed-b949-59a96e3c509e"
+  },
+  {
+    "name": "diane",
+    "email": "d@d.com",
+    "senha": "123",
+    "data de nascimento": "1987-05-27T00:00:00.000Z",
+    "subscribe": false,
+    "member": false,
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiZGlhbmUiLCJlbWFpbCI6ImRAZC5jb20iLCJzZW5oYSI6IjEyMyIsImRhdGEgZGUgbmFzY2ltZW50byI6IjE5ODctMDUtMjdUMDA6MDA6MDAuMDAwWiIsInN1YnNjcmliZSI6ZmFsc2UsIm1lbWJlciI6ZmFsc2UsImlhdCI6MTY5NDU2ODIyN30.p980EKeKA9qNiwuSMtT4XeirItcX8RWfUNM8BPAAyMw",
+    "id": "298098f1-0c82-4791-84bb-a9d3a12ec905"
+  },
+  {
+    "name": "mateus",
+    "email": "m@m.com",
+    "senha": "123",
+    "data de nascimento": "1987-05-27T00:00:00.000Z",
+    "subscribe": false,
+    "member": false,
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoibWF0ZXVzIiwiZW1haWwiOiJtQG0uY29tIiwic2VuaGEiOiIxMjMiLCJkYXRhIGRlIG5hc2NpbWVudG8iOiIxOTg3LTA1LTI3VDAwOjAwOjAwLjAwMFoiLCJzdWJzY3JpYmUiOmZhbHNlLCJtZW1iZXIiOmZhbHNlLCJpYXQiOjE2OTQ1NjgyNTd9.-XTq7_vZi4EmygM2brYj7kzXfRQyE-MocJCiSyEihF8",
+    "id": "8367416c-b0eb-45f5-868e-06a9e455221f"
+  }
+]

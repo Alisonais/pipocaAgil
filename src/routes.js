@@ -1,9 +1,12 @@
 import { Router } from 'express';
-import {index, signIn} from './app/controller/publicControler.js'
+import {index, signIn, signUp, getAll} from './app/controller/publicControler.js'
 
 export const router = Router();
 
 // rotas publicas
 router.get('/public', index);
-router.post('/public/signIn', signIn)
+
 // rotas de criação de usuario
+router.post('/public/signIn', signIn)
+router.post('/public/signUp', signUp)
+router.get('public/getAll', getAll)
